@@ -10,4 +10,4 @@ Añade `custom_rating_bar_example` a tus dependencias en `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  basic_math_operations: ^0.0.1
+  custom_rating_bar_example: ^0.0.1
